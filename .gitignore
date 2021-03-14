@@ -1,0 +1,20 @@
+/node_modules
+/test/js
+/test/browsertest/js
+/test/fixtures/temp-*
+/test/temp
+/test/ChangesAndRemovals
+/benchmark/js
+/benchmark/fixtures
+/examples/**/dist
+/coverage
+/dist/*
+.DS_Store
+.env
+*.log
+.idea
+.vscode
+.cache
+.eslintcache
+package-lock.json
+© 2021 GitHub, Inc.
